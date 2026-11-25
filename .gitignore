@@ -1,0 +1,7 @@
+.env
+*.db
+.playwright_profile/
+backend/profile/profile.json
+*.pdf
+__pycache__/
+.venv/
